@@ -1,0 +1,46 @@
+Trilha Frontend
+https://www.trilha.info/roadmap/frontend
+
+P5.JS
+https://p5js.org/
+
+reactJS
+https://stackoverflow.com/questions/2067472/what-is-jsonp-and-why-was-it-created
+https://www.w3schools.com/js/js_json_jsonp.asp
+https://www.techtarget.com/searchapparchitecture/definition/RESTful-API
+
+Fluxograma
+https://excalidraw.com/
+
+VScode Web
+https://code.visualstudio.com/docs/editor/vscode-web
+
+CodeSpaces
+https://github.com/features/codespaces
+
+Site oficial do JavaScript
+https://javascript.info/
+
+Aula:
+
+Seu primeiro JavaScript | Mód06 Aula23
+https://www.youtube.com/watch?v=zicQ2UaLlaY
+
+Curto-circuito e operadores lógicos no JavaScript #08
+https://www.youtube.com/watch?v=v284UANltaU
+
+HTTP, API Rest, Fetch API (AJAX) e ReactJS de forma feliz! IMPORTANTE eu confundi DNS com CDN
+https://www.youtube.com/watch?v=gT008_tqIdA
+
+Projeto do curso de HTML e CSS feliz | Mod 00 - Aula 01
+https://www.youtube.com/playlist?list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa
+
+Apresentação do projeto | Curso de JS para React | Mod 01 Aula 01
+https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va
+
+
+Figma
+Site = https://www.figma.com/
+
+Smart Contracts (Solidty)
+https://cryptozombies.io/

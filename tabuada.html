@@ -1,0 +1,17 @@
+<meta charset = "UTF-8">
+
+<script>
+    
+    var mostra = function(frase) {
+        document.write(frase + "<br>");
+    }
+
+    const number = parseInt(prompt("Digite um número :"));
+    const range = parseInt(prompt("Digite até qual número você gostaria de múltiplica-lo :"));
+
+    for (let x = 1; x <= range; x++) {
+        const result = x * number;
+        mostra(`${number} * ${x} = ${result}`);
+    }
+
+</script>
